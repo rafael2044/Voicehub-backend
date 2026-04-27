@@ -1,0 +1,14 @@
+cryptography
+fastapi[standard]
+websockets
+sqlalchemy
+psycopg2-binary
+pydantic
+asyncpg
+python-dotenv
+passlib
+pydantic[email]
+pydantic-settings
+python-jose
+bcrypt==4.3.0
+python-multipart
